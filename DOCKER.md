@@ -216,3 +216,4 @@ docker-compose down
 - Host: pg-docker
 - Porta: 5432
 - Usuário: postgres
+- http://localhost:5050/
