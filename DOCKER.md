@@ -217,3 +217,6 @@ docker-compose down
 - Porta: 5432
 - Usuário: postgres
 - http://localhost:5050/
+
+## Reference
+[https://towardsdatascience.com/how-to-run-postgresql-and-pgadmin-using-docker-3a6a8ae918b5](https://towardsdatascience.com/how-to-run-postgresql-and-pgadmin-using-docker-3a6a8ae918b5)
